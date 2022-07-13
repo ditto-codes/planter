@@ -1,0 +1,14 @@
+{
+	"planters": {
+	  "basic": {
+	    "location": "https://github.com/matthew-ia/planter-basic",
+	    "rank": "1",
+			"unixCreationTime": "1657671358"
+	  },
+		"svelte": {
+	    "location": "https://github.com/matthew-ia/planter-svelte",
+	    "rank": "2",
+			"unixCreationTime": "1657671360"
+	  }
+	}
+}
