@@ -2,10 +2,14 @@
   "name": "planter-cli",
   "version": "0.0.2",
   "description": "Planter CLI – a tool for quickstarts with project templates",
-  "bin": "index.js",
+  "bin": {
+    "planter": "index.js"
+  },
   "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cli": "node index.js",
+    "start": "node index.js"
   },
   "author": "Matthew Alicea & Matthew Gluf",
   "license": "MIT",
