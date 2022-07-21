@@ -10,7 +10,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js",
     "cli": "node index.js",
-    "config": "code ~/.planter/config.json"
+    "userconfig": "code ~/.planter/config.json"
   },
   "author": "Matthew Alicea & Matthew Gluf",
   "license": "MIT",
