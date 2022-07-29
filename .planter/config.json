@@ -3,11 +3,13 @@
 	  "basic": {
 	    "location": "https://github.com/matthew-ia/planter-basic",
 	    "rank": 1,
+			"isDirectory": false,
 			"creationTime": 1657671358
 	  },
 		"svelte": {
 	    "location": "https://github.com/matthew-ia/planter-svelte",
 	    "rank": 2,
+			"isDirectory": false,
 			"creationTime": 1657671360
 	  }
 	}
