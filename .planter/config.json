@@ -1,16 +1,16 @@
 {
-	"planters": {
-	  "basic": {
-	    "_location": "https://github.com/matthew-ia/planter-basic",
-	    "_position": 1,
-			"_isDirectory": false,
-			"_created": "2022-07-12-20:15:58-04"
-	  },
-		"svelte": {
-	    "_location": "https://github.com/matthew-ia/planter-svelte",
-	    "_position": 2,
-			"_isDirectory": false,
-			"_created": "2022-07-12-20:15:59-04"
-	  }
-	}
+  "planters": {
+    "basic": {
+      "_location": "https://github.com/matthew-ia/planter-basic",
+      "_type": "remote",
+      "_position": 1,
+      "_created": "2022-07-12-20:15:58-04"
+    },
+    "svelte": {
+      "_location": "https://github.com/matthew-ia/planter-svelte",
+      "_type": "remote",
+      "_position": 2,
+      "_created": "2022-07-12-20:15:59-04"
+    }
+  }
 }

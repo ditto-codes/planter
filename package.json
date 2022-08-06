@@ -11,7 +11,8 @@
     "start": "node index.js",
     "cli": "node index.js",
     "userconfig": "code ~/.planter/config.json",
-    "clean": "node scripts/clean"
+    "clean": "node scripts/clean",
+    "build": "node scripts/config"
   },
   "author": "Matthew Alicea & Matthew Gluf",
   "license": "MIT",
