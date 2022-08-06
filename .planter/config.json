@@ -11,6 +11,18 @@
       "_type": "remote",
       "_position": 2,
       "_created": "2022-07-12-20:15:59-04"
+    },
+    "howdy": {
+      "_location": "repo-howdy",
+      "_type": "remote",
+      "_position": null,
+      "_created": "2022-08-06-18:03:25-04"
+    },
+    "cowboy": {
+      "_location": "/path/to/cowboy",
+      "_type": "directory",
+      "_position": null,
+      "_created": "2022-08-06-18:03:25-04"
     }
   }
 }

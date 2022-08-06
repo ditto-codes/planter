@@ -12,7 +12,7 @@
     "cli": "node index.js",
     "userconfig": "code ~/.planter/config.json",
     "clean": "node scripts/clean",
-    "build": "node scripts/config"
+    "build": "node scripts/config_default"
   },
   "author": "Matthew Alicea & Matthew Gluf",
   "license": "MIT",
