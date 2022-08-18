@@ -10,13 +10,17 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js",
     "cli": "node index.js",
-    "config": "code ~/.planter/config.json"
+    "userconfig": "code ~/.planter/config.json",
+    "clean": "node scripts/clean",
+    "build": "node scripts/config_default"
   },
   "author": "Matthew Alicea & Matthew Gluf",
   "license": "MIT",
   "dependencies": {
     "commander": "^9.3.0",
-    "fs-extra": "^10.1.0"
+    "date-fns": "^2.29.1",
+    "fs-extra": "^10.1.0",
+    "inquirer": "^9.0.2"
   },
   "devDependencies": {
     "chalk": "^5.0.1"
