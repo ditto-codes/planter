@@ -9,12 +9,12 @@ export const defaultConfig = {
     ...planterSchema('basic', {
       location: 'https://github.com/matthew-ia/planter-basic',
       position: 1,
-      created: '2022-07-12-20:15:58-04',
+      added: '2022-07-12-20:15:58-04',
     }), 
     ...planterSchema('svelte', { 
       location: 'https://github.com/matthew-ia/planter-svelte',
       position: 2,
-      created: '2022-07-12-20:15:59-04',
+      added: '2022-07-12-20:15:59-04',
     }),
   }, 
 }
