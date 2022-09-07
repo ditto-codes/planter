@@ -13,7 +13,7 @@ const config = {
     }),
     ...planterSchema('cowboy', {
       location: '/path/to/cowboy',
-      type: 'directory'
+      type: 'local'
     })
   }, 
 }

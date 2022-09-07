@@ -16,13 +16,13 @@
       "_location": "repo-howdy",
       "_type": "remote",
       "_position": null,
-      "_added": "2022-08-06-18:03:25-04"
+      "_added": "2022-09-07-19:47:47-04"
     },
     "cowboy": {
       "_location": "/path/to/cowboy",
-      "_type": "directory",
+      "_type": "local",
       "_position": null,
-      "_added": "2022-08-06-18:03:25-04"
+      "_added": "2022-09-07-19:47:47-04"
     }
   }
 }
