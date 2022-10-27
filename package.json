@@ -12,7 +12,8 @@
     "cli": "node index.js",
     "userconfig": "code ~/.planter/config.json",
     "clean": "node scripts/clean",
-    "build": "node scripts/config_default"
+    "build": "node scripts/config_default",
+    "fig": "node index.js generate-fig-spec"
   },
   "author": "Matthew Alicea & Matthew Gluf",
   "license": "MIT",
@@ -27,6 +28,7 @@
     "tiged": "^2.11.2"
   },
   "devDependencies": {
+    "@fig/complete-commander": "^2.0.1",
     "chalk": "^5.0.1"
   }
 }
