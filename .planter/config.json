@@ -1,28 +1,3 @@
 {
-  "planters": {
-    "basic": {
-      "_location": "https://github.com/matthew-ia/planter-basic",
-      "_type": "remote",
-      "_position": 1,
-      "_added": "2022-07-12-20:15:58-04"
-    },
-    "svelte": {
-      "_location": "https://github.com/matthew-ia/planter-svelte",
-      "_type": "remote",
-      "_position": 2,
-      "_added": "2022-07-12-20:15:59-04"
-    },
-    "howdy": {
-      "_location": "repo-howdy",
-      "_type": "remote",
-      "_position": null,
-      "_added": "2022-09-07-19:47:47-04"
-    },
-    "cowboy": {
-      "_location": "/path/to/cowboy",
-      "_type": "local",
-      "_position": null,
-      "_added": "2022-09-07-19:47:47-04"
-    }
-  }
+  "planters": {}
 }
