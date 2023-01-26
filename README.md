@@ -23,16 +23,16 @@ Check out this documentation and more at [planter.dev](https://www.planter.dev/)
 ### Install
 
 ```bash
-> npm i -g @planter/cli
+npm i -g @planter/cli
 ```
 
 ### Adding your own planter
 
 ```bash
-> planter add my-planter user/repo
+planter add my-planter user/repo
 Planter my-planter added.
 
-> planter create my-planter my-project
+planter create my-planter my-project
 🪴 Planted!
 Used my-planter at my-project
 ```
@@ -40,7 +40,7 @@ Used my-planter at my-project
 ### Using a remote repo
 
 ```bash
-> planter create user/repo my-project
+planter create user/repo my-project
 ```
 
 ## Commands
