@@ -1,5 +1,5 @@
 {
-  "name": "planter",
+  "name": "@planter/cli",
   "version": "1.0.0",
   "description": "Planter is a CLI created to help you maintain and use project starters quickly and easily.",
   "bin": {
@@ -28,5 +28,18 @@
     "inquirer-autocomplete-prompt": "^3.0.0",
     "minimatch": "^5.1.0",
     "tiged": "^2.11.2"
-  }
+  },
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ditto-codes/planter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ditto-codes/planter/issues"
+  },
+  "homepage": "https://planter.dev/docs/getting-started"
 }
