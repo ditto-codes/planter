@@ -1,6 +1,6 @@
 {
   "name": "@planter/cli",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Planter is a CLI created to help you maintain and use project starters quickly and easily.",
   "bin": {
     "planter": "index.js"
