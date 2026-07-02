@@ -1,2 +1,17 @@
 node_modules
 .claude
+
+# OS
+.DS_Store
+
+# Editor
+.vscode
+.idea
+
+# Env / secrets
+.env
+.env.local
+
+# Logs
+npm-debug.log*
+*.log
